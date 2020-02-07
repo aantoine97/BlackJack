@@ -1,2 +1,2 @@
 # BlackJack
-Second Udemy project.
+Second Udemy Python project.
