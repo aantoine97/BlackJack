@@ -26,7 +26,15 @@ class Deck():
         shuffle(self.cards)
 
     def shuffe_deck(self):
+        '''
+        Shuffles the deck
+        '''
+
         shuffle(self.cards)
 
     def give_card(self):
+        '''
+        Gives the top card of the deck
+        '''
+
         return self.cards.pop()
