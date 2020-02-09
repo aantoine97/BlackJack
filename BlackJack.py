@@ -48,7 +48,7 @@ def ask_to_play_again():
 
 
 def game_set_up():
-    print(("\n" * 100) + "Welcome to Austin's Black Jack! I recommend you make your console as big as possible so you can see as"
+    print(("\n" * 100) + "Welcome to Austin's Black Jack! I recommend you make your console as big as possible so you can see "
                        + " most of your hand without needing to scroll.\nEnjoy!" + "\n\n")
     print_rules = input(
         "Would you like an explanation of the game and rules? (y/n) ")
